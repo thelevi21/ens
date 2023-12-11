@@ -181,7 +181,7 @@
            
     button:after {
         content: "";
-        background: #0055ff;
+        background: #25D366;
         position: absolute;
         z-index: -1;
         left: -20%;
@@ -221,7 +221,15 @@
         font-size: 10px;
     }
 }
-
+.icon1{
+    color: #25D366;
+    font-size: 5em;
+    text-align: center;}
+.icon2{
+    color: #aa2f2f;
+    font-size: 5em;
+    text-align: center;}
+    
 
     
     
